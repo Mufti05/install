@@ -36,6 +36,9 @@ then
     apt install git
     apt install nano
     apt install nmap
+    apt install dialog
+    apt install bc
+    pip2 install mailfree
     pip2 install requests
     pip2 install bs4
     pip2 install mechanize
